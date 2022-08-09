@@ -50,19 +50,6 @@ List of best practices, principles, architectures, and other things so i don't f
  - Modularity
  - Decoupling
 
-### Principles
- - Invertion of Control
- - Separation of Concerns
- - DESIO (Don't even say it once)
- - SLAP (Single Level of Abstraction Principle)
- - LBYL (Look Before You Leap)
- - EAFP (it's Easier to Ask Forgiveness than Permission)
- - DRY (Don’t repeat yourself)
- - KISS (Keep It Simple, Stupid)
- - YAGNI (You Aren’t Gonna Need It)
- - RTFM (Read The Fucking Manual)
- - JFGI (Just Fucking Google It)
-
 ### S.O.L.I.D Design Principles
  - Single Responsibility Principle
  - Open/Closed Principle
@@ -80,6 +67,19 @@ List of best practices, principles, architectures, and other things so i don't f
  - Protected Variations
  - Pure Fabrication
  - Controller
+
+### Miscellaneous Principles
+ - Invertion of Control
+ - Separation of Concerns
+ - SLAP (Single Level of Abstraction Principle)
+ - LBYL (Look Before You Leap)
+ - EAFP (it's Easier to Ask Forgiveness than Permission)
+ - DRY (Don’t repeat yourself)
+ - KISS (Keep It Simple, Stupid)
+ - YAGNI (You Aren’t Gonna Need It)
+ - RTFM (Read The Fucking Manual)
+ - JFGI (Just Fucking Google It)
+ - DESIO (Don't even say it once)
 
 ### Programming Models
  - Object Oriented Programming (OOP)
@@ -116,7 +116,7 @@ List of best practices, principles, architectures, and other things so i don't f
  - Folder/Project structure
  - Triple A (UnitTesting)
 
-### Buzzwords (Makes me sound cool)
+### Buzzwords
  - Artificial Intelligence (AI)
  - Machine Learning (ML)
  - Optical Character Recognition (OCR)
