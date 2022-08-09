@@ -70,8 +70,19 @@ List of best practices, principles, architectures, and other things so i don't f
  - Interface Segregation
  - Dependency Inversion Principle
 
+### General Responsibility Assignment Software Patterns (GRASP)
+ - Information Expert
+ - Creator
+ - Indirection
+ - Low Coupling
+ - High Cohesion
+ - Polymorphism
+ - Protected Variations
+ - Pure Fabrication
+ - Controller
+
 ### Programming Models
- - Object-oriented programming (OOP)
+ - Object Oriented Programming (OOP)
  - Functional Programming
  
 ### Architectural Patterns
@@ -118,5 +129,4 @@ List of best practices, principles, architectures, and other things so i don't f
 ### Misc
  - Line of Business
  - Business Domain
- - GRASP
- - GOF
+ - Gang of Four (GOF)
