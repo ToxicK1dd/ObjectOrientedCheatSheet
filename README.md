@@ -1,4 +1,4 @@
-# TheList
+# The List
 List of best practices, principles, architectures, and other things so i don't forget them.
 
 ### Basic Elements
