@@ -108,6 +108,7 @@ List of best practices, principles, architectures, and other things so i don't f
 ### Buzzwords (Makes me sound cool)
  - Artificial Intelligence (AI)
  - Machine Learning (ML)
+ - Optical Character Recognition (OCR)
  - Non-Fungible Token (NFT)
  - Big Data
  - Blockchain
