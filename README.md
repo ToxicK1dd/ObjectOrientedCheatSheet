@@ -71,14 +71,31 @@ List of best practices, principles, architectures, and other things so i don't f
  - Dependency Inversion Principle
 
 ### Programming Models
- - Object-oriented programming
- - Object-oriented analysis and design (OOAD)
+ - Object-oriented programming (OOP)
+ - Functional Programming
  
 ### Architectural Patterns
  - MVVM
  - MVC
 
-## Design Pattern:
+### API Architectural Patterns
+ - GraphQL
+ - Representational State Transfer (REST)
+ - Remote Procedure Call (gRPC)
+ - Simple Object Access Protocol (SOAP)
+
+### Development Process
+ - Test Driven Development (TDD)
+ - Behavior Driven Development (BDD)
+ - Domain Driven Development (DDD)
+ - Clean Architecture
+
+### Project Management
+ - Agile Software Development
+ - Scrum Software Development
+ - Waterfall software development
+
+### Design Pattern:
  - Creational
  - Behavioral
  - Structural 
@@ -87,12 +104,18 @@ List of best practices, principles, architectures, and other things so i don't f
  - Pascal casing, camel casing
  - Folder/Project structure
  - Triple A (UnitTesting)
- 
+
+### Buzzwords (Makes me sound cool)
+ - Artificial Intelligence (AI)
+ - Machine Learning (ML)
+ - Non-Fungible Token (NFT)
+ - Big Data
+ - Blockchain
+ - Metaverse
+ - Microservices
+
 ### Misc
- - Agile Software Development
- - Test-Driven Development
  - Line of Business
- - Clean Architecture
  - Business Domain
  - GRASP
  - GOF
