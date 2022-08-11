@@ -1,5 +1,5 @@
 # The List
-List of best practices, principles, architectures, and other things so i don't forget them.\
+List of best practices, principles, patterns, architectures, and other things so i don't forget them.\
 Also useful for people trying to learn about software development.
 
 Mostly consists of things related to OOP, and C#.
