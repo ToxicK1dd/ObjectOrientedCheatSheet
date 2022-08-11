@@ -1,6 +1,8 @@
 # The List
 List of best practices, principles, architectures, and other things so i don't forget them.\
-Also useful for people trying to learn programming.
+Also useful for people trying to learn about software development.
+
+Mostly consists of things related to OOP, and C#.
 
 ### Basic Elements
  - [Operators](https://www.tutorialspoint.com/computer_programming/computer_programming_operators.htm)
@@ -31,15 +33,15 @@ Also useful for people trying to learn programming.
  - [Pointers](https://www.c-sharpcorner.com/article/pointers-in-C-Sharp/)
 
 ### Relationships
- - Abstraction
- - Aggregation
- - Association
- - Composition
- - Generalization
- - Specialization
- - Realization
- - Inheritance
- - Dependency
+ - [Abstraction](https://www.uml-diagrams.org/abstraction.html)
+ - [Inheritance](https://stackify.com/oop-concept-inheritance/)
+ - [Composition](https://www.uml-diagrams.org/composition.html)
+ - [Association](https://www.uml-diagrams.org/association.html)
+ - [Aggregation](https://www.uml-diagrams.org/aggregation.html)
+ - [Generalization](https://www.uml-diagrams.org/generalization.html)
+ - [Specialization](https://www.indeed.com/career-advice/career-development/generalization-vs-specialization)
+ - [Dependency](https://www.uml-diagrams.org/dependency.html)
+ - [Realization](https://www.uml-diagrams.org/realization.html)
 
 ### Concepts
  - [Encapsulation](https://www.tutorialspoint.com/csharp/csharp_encapsulation.htm)
@@ -89,8 +91,9 @@ Also useful for people trying to learn programming.
  - Functional Programming
  
 ### Architectural Patterns
- - MVVM
- - MVC
+ - Model-View-ViewModel (MVVM)
+ - Model-View-Controller (MVC)
+ - Model-View-Presenter (MVP)
 
 ### API Architectural Patterns
  - GraphQL
