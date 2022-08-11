@@ -1,6 +1,6 @@
 # The List
 List of best practices, principles, patterns, architectures,\
-and other things that i've come across while developing software.\
+and other things that i've come across while developing software.
 
 Somewhat useful for people trying to learn about software development.\
 Mostly consists of things related to OOP, and C#.
