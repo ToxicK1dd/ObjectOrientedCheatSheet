@@ -1,5 +1,6 @@
 # The List
-List of best practices, principles, architectures, and other things so i don't forget them.
+List of best practices, principles, architectures, and other things so i don't forget them.\
+Also useful for people trying to learn programming.
 
 ### Basic Elements
  - [Operators](https://www.tutorialspoint.com/computer_programming/computer_programming_operators.htm)
@@ -9,24 +10,25 @@ List of best practices, principles, architectures, and other things so i don't f
     - [Reference type](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/reference-types)
 
 ### General Elements
- - Methods
- - Classes
- - Objects
- - Expressions
- - Statements
- - Conditions
+ - [Methods](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/methods)
+ - [Classes](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/types/classes)
+ - [Objects](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/object-oriented/objects)
+ - [Expressions](https://exceptionnotfound.net/csharp-in-simple-terms-18-expressions-lambdas-and-delegates/)
+ - [Statements](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/statements-expressions-operators/statements)
+ - [Conditions](https://www.w3schools.com/CS/cs_conditions.php)
 
 ### Fundamentals
- - Sequence
- - Selection
- - Iteration
- - Recursion
+ - [Sequence](https://www.bbc.co.uk/bitesize/guides/znh6pbk/revision/2)
+ - [Selection](https://www.bbc.co.uk/bitesize/guides/zh66pbk/revision/3)
+ - [Iteration](https://www.bbc.co.uk/bitesize/guides/z3khpv4/revision/1)
+ - [Recursion](https://www.bbc.co.uk/bitesize/guides/z9hykqt/revision/1)
 
 ### Declarations
- - Modifiers
- - Keywords
- - Constraints
- - References
+ - [Modifiers](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/access-modifiers)
+ - [Keywords](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/)
+ - [Constraints](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/generics/constraints-on-type-parameters)
+ - [References](https://stackoverflow.com/questions/40686776/what-exactly-is-a-reference-in-c-sharp)
+ - [Pointers](https://www.c-sharpcorner.com/article/pointers-in-C-Sharp/)
 
 ### Relationships
  - Abstraction
@@ -132,3 +134,5 @@ List of best practices, principles, architectures, and other things so i don't f
  - Line of Business
  - Business Domain
  - Gang of Four (GOF)
+
+<!-- Written and Directed by ToxicK1dd - https://baek.pro/ -->
