@@ -109,6 +109,17 @@ Mostly consists of things related to OOP, and C#.
  - [Responsibility Driven Design](https://www.wirfs-brock.com/PDFs/A_Brief-Tour-of-RDD.pdf) 
  - Clean Architecture
 
+### Anti-Patterns & Code Smells
+ - Anemic Domain Model
+ - Golden Hammer
+ - Boat Anchor
+ - Dead Code
+ - God Objects
+ - Shotgun Surgery
+ - Middle Man
+ - Speculative Generality
+ - Spaghetti Code
+
 ### Project Management
  - Agile Software Development
  - Scrum Software Development
