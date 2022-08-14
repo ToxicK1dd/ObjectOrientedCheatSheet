@@ -119,6 +119,7 @@ Mostly consists of things related to OOP, and C#.
  - Middle Man
  - Speculative Generality
  - Spaghetti Code
+ - Inner-Platform Effect
 
 ### Project Management
  - Agile Software Development
