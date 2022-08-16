@@ -87,6 +87,9 @@ Mostly consists of things related to OOP, and C#.
  - [RTFM](https://www.computerhope.com/jargon/r/rtfm.htm) (Read The Fucking Manual) 
  - [JFGI](https://www.urbandictionary.com/define.php?term=jfgi) (Just Fucking Google It) <sub><sup>// not really a principle</sup></sub>
 
+### Data Structures & Algorithms
+ - Levenshtein distance algorithm 
+
 ### Programming Models
  - Object Oriented Programming (OOP)
  - Functional Programming
