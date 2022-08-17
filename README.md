@@ -152,6 +152,9 @@ Mostly consists of things related to OOP, and C#.
 ### Advice
  - [Make it work, Make it Right, Make it fast](https://betterprogramming.pub/the-principles-of-software-development-7415e7c5a156)
 
+### Useful Resources
+ - [Refactoring Guru](https://refactoring.guru/)
+
 ### Misc
  - Line of Business
  - Business Domain
