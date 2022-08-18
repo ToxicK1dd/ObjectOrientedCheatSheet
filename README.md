@@ -165,6 +165,7 @@ Mostly consists of things related to OOP, and C#.
  - [Refactoring Guru](https://refactoring.guru/)
  - [Martin Fowler](https://martinfowler.com/)
  - [Uncle Bob](http://cleancoder.com/products)
+ - [Try QA](http://tryqa.com/)
 
 ### Articles & Blogs
  - [Saying No to Stakeholders](https://www.mountaingoatsoftware.com/blog/six-guidelines-for-saying-no-to-a-stakeholder)
