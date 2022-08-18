@@ -154,6 +154,8 @@ Mostly consists of things related to OOP, and C#.
 
 ### Useful Resources
  - [Refactoring Guru](https://refactoring.guru/)
+ - [Martin Fowler](https://martinfowler.com/)
+ - [Uncle Bob](http://cleancoder.com/products)
 
 ### Misc
  - Line of Business
