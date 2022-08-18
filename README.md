@@ -126,7 +126,15 @@ Mostly consists of things related to OOP, and C#.
 
 ### Project Management
  - Agile Software Development
- - Scrum Software Development
+   - Scrum
+     - [Stakeholder Management](https://www.scrum.org/resources/blog/10-tips-product-owners-stakeholder-management)
+     - [Risk Management](https://www.scrum.org/resources/blog/managing-risk-scrum)
+   - Kanban
+     - Visualize Workflow 
+     - Limit Work in Progress (WIP) 
+     - Focus on Flow
+     - Continuous Improvement
+   - [Extreme Programming](https://www.agilealliance.org/glossary/xp/)
  - Waterfall software development
 
 ### Design Pattern:
