@@ -168,6 +168,9 @@ Mostly consists of things related to OOP, and C#.
 
 ### Articles & Blogs
  - [Saying No to Stakeholders](https://www.mountaingoatsoftware.com/blog/six-guidelines-for-saying-no-to-a-stakeholder)
+ - [Stakeholder Management](https://www.pmi.org/learning/library/stakeholder-management-task-project-success-7736)
+ - [10 Tips for Product Owners](https://www.scrum.org/resources/blog/10-tips-product-owners-stakeholder-management)
+ - [10 Principles of Stakeholder Engagement](https://www.henricodolfing.com/2018/03/10-principles-of-stakeholder-engagement.html)
 
 ### Misc
  - Line of Business
