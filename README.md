@@ -125,7 +125,7 @@ Mostly consists of things related to OOP, and C#.
  - Inner-Platform Effect
 
 ### Project Management
- - Agile Software Development
+ - Agile Model
    - Scrum
      - [Stakeholder Management](https://www.scrum.org/resources/blog/10-tips-product-owners-stakeholder-management)
      - [Risk Management](https://www.scrum.org/resources/blog/managing-risk-scrum)
@@ -135,7 +135,8 @@ Mostly consists of things related to OOP, and C#.
      - Focus on Flow
      - Continuous Improvement
    - [Extreme Programming](https://www.agilealliance.org/glossary/xp/)
- - Waterfall software development
+ - Waterfall Model
+ - [Salience Model](https://pmstudycircle.com/salience-model-to-analyze-project-stakeholders/)
 
 ### Design Pattern:
  - Creational
