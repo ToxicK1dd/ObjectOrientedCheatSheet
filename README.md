@@ -138,6 +138,21 @@ Mostly consists of things related to OOP, and C#.
  - Waterfall Model
  - [Salience Model](https://pmstudycircle.com/salience-model-to-analyze-project-stakeholders/)
 
+### [User Stories](https://xp123.com/articles/invest-in-good-stories-and-smart-tasks/)
+ - INVEST
+   - Independent
+   - Negotiable
+   - Valuable
+   - Estimable
+   - Small
+   - Testable
+ - SMART
+   - Specific
+   - Measurable
+   - Achievable
+   - Relevant
+   - Time-boxed 
+
 ### Design Pattern:
  - Creational
  - Behavioral
