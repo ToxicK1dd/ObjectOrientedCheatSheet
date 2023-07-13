@@ -1,5 +1,5 @@
 # Principles, Patterns, and Best Practices for Software Development
-This comprehensive guide provides a curated collection of essential software development principles, patterns, and best practices. \
+This comprehensive guide provides a curated collection of essential software development principles, patterns, and best practices.
 It covers various aspects of software development, with a focus on object-oriented programming (OOP) and C#. 
 
 Whether you are a beginner or an experienced developer, this resource offers valuable insights to enhance your understanding and skills. \
