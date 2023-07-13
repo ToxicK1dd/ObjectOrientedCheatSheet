@@ -7,6 +7,8 @@ Whether you are a beginner or an experienced developer, this resource offers val
 Everything from fundamental elements to advanced concepts, architecture patterns to project management methodologies, \
 this guide aims to equip you with a broad knowledge base and practical guidance for developing high-quality software.
 
+**Note: This guide is a work in progress.** I am are continuously expanding and updating the content to provide you with even more comprehensive coverage of software development principles, patterns, and best practices. The content is continually expanding and evolving as I discover new principles, patterns, and best practices to share with you. Feel free to explore the existing content and check back regularly for new additions and updates.
+
 ---
 
 ### Basic Elements
