@@ -6,64 +6,98 @@ Whether you are a beginner or an experienced developer, this resource offers val
 From fundamental elements to advanced concepts, architecture patterns to project management methodologies, \
 this guide aims to equip you with a broad knowledge base and practical guidance for developing high-quality software.
 
+---
+
 ### Basic Elements
- - [Operators](https://www.tutorialspoint.com/computer_programming/computer_programming_operators.htm)
- - [Variables](https://www.tutorialspoint.com/computer_programming/computer_programming_variables.htm)
- - [Datatypes](https://www.tutorialspoint.com/computer_programming/computer_programming_data_types.htm)
-    - [Value type](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/value-types)
-    - [Reference type](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/reference-types)
+- [Operators](https://www.tutorialspoint.com/computer_programming/computer_programming_operators.htm)
+- [Variables](https://www.tutorialspoint.com/computer_programming/computer_programming_variables.htm)
+- [Datatypes](https://www.tutorialspoint.com/computer_programming/computer_programming_data_types.htm)
+  - [Value type](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/value-types)
+  - [Reference type](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/reference-types)
+- [Constants](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/const)
+- [Arrays](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/arrays/)
+- [Strings](https://docs.microsoft.com/en-us/dotnet/api/system.string?view=net-5.0)
+- [Collections](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/collections)
+- [Loops](https://www.tutorialspoint.com/computer_programming/computer_programming_loops.htm)
+- [Exceptions](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/exceptions/)
+- [Events](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/events/)
+- [Delegates](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/delegates/)
+- [Attributes](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/attributes/)
+- [File I/O](https://docs.microsoft.com/en-us/dotnet/standard/io/)
 
 ### General Elements
- - [Methods](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/methods)
- - [Classes](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/types/classes)
- - [Objects](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/object-oriented/objects)
- - [Expressions](https://exceptionnotfound.net/csharp-in-simple-terms-18-expressions-lambdas-and-delegates/)
- - [Statements](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/statements-expressions-operators/statements)
- - [Conditions](https://www.w3schools.com/CS/cs_conditions.php)
+- [Methods](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/methods)
+- [Classes](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/types/classes)
+- [Objects](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/object-oriented/objects)
+- [Expressions](https://exceptionnotfound.net/csharp-in-simple-terms-18-expressions-lambdas-and-delegates/)
+- [Statements](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/statements-expressions-operators/statements)
+- [Conditions](https://www.w3schools.com/CS/cs_conditions.php)
 
 ### Fundamentals
- - [Sequence](https://www.bbc.co.uk/bitesize/guides/znh6pbk/revision/2)
- - [Selection](https://www.bbc.co.uk/bitesize/guides/zh66pbk/revision/3)
- - [Iteration](https://www.bbc.co.uk/bitesize/guides/z3khpv4/revision/1)
- - [Recursion](https://www.bbc.co.uk/bitesize/guides/z9hykqt/revision/1)
+- [Sequence](https://www.bbc.co.uk/bitesize/guides/znh6pbk/revision/2)
+- [Selection](https://www.bbc.co.uk/bitesize/guides/zh66pbk/revision/3)
+- [Iteration](https://www.bbc.co.uk/bitesize/guides/z3khpv4/revision/1)
+- [Recursion](https://www.bbc.co.uk/bitesize/guides/z9hykqt/revision/1)
 
 ### Declarations
- - [Modifiers](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/access-modifiers)
- - [Keywords](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/)
- - [Constraints](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/generics/constraints-on-type-parameters)
- - [References](https://stackoverflow.com/questions/40686776/what-exactly-is-a-reference-in-c-sharp)
- - [Pointers](https://www.c-sharpcorner.com/article/pointers-in-C-Sharp/)
+- [Modifiers](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/access-modifiers)
+- [Keywords](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/)
+- [Constraints](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/generics/constraints-on-type-parameters)
+- [References](https://stackoverflow.com/questions/40686776/what-exactly-is-a-reference-in-c-sharp)
+- [Pointers](https://www.c-sharpcorner.com/article/pointers-in-C-Sharp/)
 
 ### Relationships
- - [Abstraction](https://www.uml-diagrams.org/abstraction.html)
- - [Inheritance](https://stackify.com/oop-concept-inheritance/)
- - [Composition](https://www.uml-diagrams.org/composition.html)
- - [Association](https://www.uml-diagrams.org/association.html)
- - [Aggregation](https://www.uml-diagrams.org/aggregation.html)
- - [Generalization](https://www.uml-diagrams.org/generalization.html)
- - [Specialization](https://www.indeed.com/career-advice/career-development/generalization-vs-specialization)
- - [Dependency](https://www.uml-diagrams.org/dependency.html)
- - [Realization](https://www.uml-diagrams.org/realization.html)
+- [Abstraction](https://www.uml-diagrams.org/abstraction.html)
+- [Inheritance](https://stackify.com/oop-concept-inheritance/)
+- [Composition](https://www.uml-diagrams.org/composition.html)
+- [Association](https://www.uml-diagrams.org/association.html)
+- [Aggregation](https://www.uml-diagrams.org/aggregation.html)
+- [Generalization](https://www.uml-diagrams.org/generalization.html)
+- [Specialization](https://www.indeed.com/career-advice/career-development/generalization-vs-specialization)
+- [Dependency](https://www.uml-diagrams.org/dependency.html)
+- [Realization](https://www.uml-diagrams.org/realization.html)
 
 ### Concepts
- - [Encapsulation](https://www.tutorialspoint.com/csharp/csharp_encapsulation.htm)
- - [Reflection](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/reflection)
- - Polymorphism
-    - [Overloading](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/member-overloading)
-    - [Overriding](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/knowing-when-to-use-override-and-new-keywords)
-    - [Generics](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/types/generics)
- - [Persistence](https://en.m.wikipedia.org/wiki/Persistence_(computer_science))
- - [Modularity](https://codewithmukesh.com/blog/modular-architecture-in-aspnet-core/)
- - [Decoupling](https://intellitect.com/blog/decoupling-csharp-testable/)
+- [Encapsulation](https://www.tutorialspoint.com/csharp/csharp_encapsulation.htm)
+- [Reflection](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/reflection)
+- Polymorphism
+  - [Overloading](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/member-overloading)
+  - [Overriding](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/knowing-when-to-use-override-and-new-keywords)
+  -[Generics](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/types/generics)
+- [Persistence](https://en.m.wikipedia.org/wiki/Persistence_(computer_science))
+- [Modularity](https://codewithmukesh.com/blog/modular-architecture-in-aspnet-core/)
+- [Decoupling](https://intellitect.com/blog/decoupling-csharp-testable/)
+- [Concurrency](https://en.wikipedia.org/wiki/Concurrency_(computer_science))
+- [Asynchronous Programming](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/)
+- [Parallel Programming](https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/)
+
+---
 
 ### S.O.L.I.D Design Principles
- - [Single Responsibility Principle](https://dev.to/tamerlang/understanding-solid-principles-single-responsibility-principle-523j)
- - [Open/Closed Principle](https://dev.to/tamerlang/understanding-solid-principles-open-closed-principle-5e25)
- - [Liskov Substitution Principle](https://dev.to/tamerlang/understanding-solid-principles-liskov-substitution-principle-46an)
- - [Interface Segregation](https://dev.to/tamerlang/understanding-solid-principles-interface-separation-32ck)
- - [Dependency Inversion Principle](https://dev.to/tamerlang/understanding-solid-principles-dependency-inversion-1b0f)
+**SOLID** represents a set of design principles aimed at creating software that is easy to maintain, understand, and extend.\
+Each principle focuses on a specific aspect of software design and encourages good coding practices.
+
+- [Single Responsibility Principle](https://dev.to/tamerlang/understanding-solid-principles-single-responsibility-principle-523j)
+- [Open/Closed Principle](https://dev.to/tamerlang/understanding-solid-principles-open-closed-principle-5e25)
+- [Liskov Substitution Principle](https://dev.to/tamerlang/understanding-solid-principles-liskov-substitution-principle-46an)
+- [Interface Segregation](https://dev.to/tamerlang/understanding-solid-principles-interface-separation-32ck)
+- [Dependency Inversion Principle](https://dev.to/tamerlang/understanding-solid-principles-dependency-inversion-1b0f)
+
+### CLEAN Design Principles
+The CLEAN design principles emphasize writing code that is easy to understand, efficient, and free from redundancy.\
+By following these principles, you can enhance the readability, maintainability, and overall quality of your codebase.
+
+- [Clear](#)
+- [Logical](#)
+- [Effective](#)
+- [Accurate](#)
+- [Non-redundant](#)
 
 ### General Responsibility Assignment Software Patterns ([GRASP](http://www.kamilgrzybek.com/design/grasp-explained/))
+**GRASP** (General Responsibility Assignment Software Patterns) is a set of design principles that guide software developers in assigning responsibilities to classes and objects.
+
+These principles help in creating software systems that are modular, maintainable, and adaptable. Each principle focuses on a specific aspect of object-oriented design and promotes good coding practices. The principles include:
+
  - Information Expert
  - Creator
  - Indirection
@@ -75,6 +109,11 @@ this guide aims to equip you with a broad knowledge base and practical guidance 
  - Controller
 
 ### Gang of Four ([GOF](https://springframework.guru/gang-of-four-design-patterns/))
+The Gang of Four (GoF) design patterns are a collection of 23 design patterns that provide solutions to common software design problems. 
+
+These patterns were defined by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides in their book "Design Patterns: Elements of Reusable Object-Oriented Software". 
+The GoF design patterns are divided into three categories:
+
  - Creational Design Patterns
    - Abstract Factory. Allows the creation of objects without specifying their concrete type.
    - Builder. Uses to create complex objects.
@@ -101,45 +140,48 @@ this guide aims to equip you with a broad knowledge base and practical guidance 
    - Strategy. Allows one of a family of algorithms to be selected on-the-fly at run-time.
    - Template Method. Defines the skeleton of an algorithm as an abstract class, allowing its sub-classes to provide concrete behavior.
    - Visitor. Separates an algorithm from an object structure by moving the hierarchy of methods into one object.
+     
+---
 
-### Miscellaneous Principles
- - [Invertion of Control](https://en.m.wikipedia.org/wiki/Inversion_of_control)
- - [Separation of Concerns](https://en.m.wikipedia.org/wiki/Separation_of_concerns)
- - [SLAP](https://dzone.com/articles/slap-your-methods-and-dont-make-me-think) (Single Level of Abstraction Principle)
- - [LBYL](https://realpython.com/python-lbyl-vs-eafp/) (Look Before You Leap) <sub><sup>// mostly related to python</sup></sub>
- - [EAFP](https://realpython.com/python-lbyl-vs-eafp/) (it's Easier to Ask Forgiveness than Permission) <sub><sup>// mostly related to python</sup></sub>
- - [DRY](https://thevaluable.dev/dry-principle-cost-benefit-example/) (Don’t Repeat Yourself)
- - [WET](https://betterprogramming.pub/when-dry-doesnt-work-go-wet-6befda0444bf) (Write Everything Twice)
- - [AHA](https://kentcdodds.com/blog/aha-programming) (Avoid Hasty Abstractions)
- - [KISS](https://www.freecodecamp.org/news/keep-it-simple-stupid-how-to-use-the-kiss-principle-in-design/) (Keep It Simple, Stupid)
- - [YAGNI](https://martinfowler.com/bliki/Yagni.html) (You Aren’t Gonna Need It)
- - [RTFM](https://www.computerhope.com/jargon/r/rtfm.htm) (Read The Fucking Manual) 
- - [JFGI](https://www.urbandictionary.com/define.php?term=jfgi) (Just Fucking Google It) <sub><sup>// not really a principle</sup></sub>
+### Software Development Principles and Guidelines
 
-### Data Structures & Algorithms
- - Levenshtein distance algorithm 
+This section presents a collection of essential principles and guidelines that can guide you in the process of software development.\
+These principles encompass various aspects of software design, coding practices, architecture, and project management. 
 
-### Programming Models
- - Object Oriented Programming (OOP)
- - Functional Programming
- 
-### Architectural Patterns
- - Model-View-ViewModel (MVVM)
- - Model-View-Controller (MVC)
- - Model-View-Presenter (MVP)
+By adhering to these principles, you can build high-quality software solutions that are modular, maintainable, efficient, and aligned with best practices.\
+Explore these principles to enhance your understanding of software development and apply them to your projects for improved outcomes.
 
-### API Architectural Patterns
- - GraphQL
- - Representational State Transfer (REST)
- - Remote Procedure Call (gRPC)
- - Simple Object Access Protocol (SOAP)
 
-### Development Process
- - Test Driven Development (TDD)
- - Behavior Driven Development (BDD)
- - Domain Driven Development (DDD)
- - [Responsibility Driven Design](https://www.wirfs-brock.com/PDFs/A_Brief-Tour-of-RDD.pdf) 
- - Clean Architecture
+- [Separation of Concerns](https://en.m.wikipedia.org/wiki/Separation_of_concerns) (Dividing software into distinct sections addressing specific responsibilities.)
+- [Inversion of Control](https://en.m.wikipedia.org/wiki/Inversion_of_control) (Delegating control flow and object creation to a central entity.)
+- [SLAP](https://dzone.com/articles/slap-your-methods-and-dont-make-me-think) (Single Level of Abstraction Principle)
+- [LBYL](https://realpython.com/python-lbyl-vs-eafp/) (Look Before You Leap)
+- [EAFP](https://realpython.com/python-lbyl-vs-eafp/) (Easier to Ask Forgiveness than Permission)
+- [DRY](https://thevaluable.dev/dry-principle-cost-benefit-example/) (Don't Repeat Yourself)
+- [WET](https://betterprogramming.pub/when-dry-doesnt-work-go-wet-6befda0444bf) (Write Everything Twice)
+- [AHA](https://kentcdodds.com/blog/aha-programming) (Avoid Hasty Abstractions)
+- [KISS](https://www.freecodecamp.org/news/keep-it-simple-stupid-how-to-use-the-kiss-principle-in-design/) (Keep It Simple, Stupid)
+- [YAGNI](https://martinfowler.com/bliki/Yagni.html) (You Aren't Gonna Need It)
+- [RTFM](https://www.computerhope.com/jargon/r/rtfm.htm) (Read The Fucking Manual)
+- [JFGI](https://www.urbandictionary.com/define.php?term=jfgi) (Just Fucking Google It) *// not really a principle*
+- [ACID](https://www.ibm.com/docs/en/cics-ts/5.4?topic=processing-acid-properties-transactions) (Atomicity, Consistency, Isolation, Durability)
+- [PLOD](https://stackify.com/premature-optimization-evil/) (Premature Lateral Optimization Disorder) *// not really a principle*
+- [FIFO](https://www.geeksforgeeks.org/fifo-first-in-first-out-approach-in-programming/) (First In, First Out)
+- [LIFO](https://www.geeksforgeeks.org/fifo-vs-lifo-approach-in-programming/) (Last In, First Out)
+  
+These principles and guidelines provide valuable insights and best practices for software development. By incorporating them into your development process, you can enhance the quality and effectiveness of your software solutions. Here are some key benefits of following these principles:
+
+1. **Modularity**: *Emphasizing modularity helps in breaking down complex systems into smaller, manageable components. This promotes better organization, reusability, and easier maintenance of code.*
+
+2. **Simplicity**: *Striving for simplicity in design and implementation leads to code that is **easier to understand** and reason about. Simple code reduces complexity and improves readability, which facilitates collaboration and makes it easier for other developers to work with your code.*
+
+3. **Maintainability**: *By following best practices, such as adhering to coding standards, writing clean and self-explanatory code, and applying proper documentation, you enhance the maintainability of your software. This makes it **easier to identify and fix issues**, update functionality, and adapt to changing requirements.*
+
+4. **Efficient Problem-Solving**: *These principles encourage effective problem-solving by promoting sound architectural and design choices. They help you identify potential pitfalls, mitigate risks, and make **informed decisions** during the development process.*
+
+By incorporating these principles into your development workflow, you foster a mindset of creating high-quality software that is **easier to maintain, update, and understand**. This ultimately leads to **faster development cycles**, improved collaboration among team members, and increased satisfaction for both developers and end-users.
+
+Remember, while these principles provide valuable guidance, it's essential to apply them **judiciously**, considering the specific context and requirements of your project.
 
 ---
 
@@ -196,6 +238,33 @@ The primary goals of identifying and addressing code smells and anti-patterns in
 5. **Foster Scalability and Extensibility**: *A codebase free from code smells and anti-patterns is more scalable and extensible. Clean code makes it easier to add new features, modify existing functionalities, and integrate with other systems. It enables developers to build upon a solid foundation and maintain a flexible architecture that can evolve as the software requirements change over time.*
 
 By striving to avoid code smells and anti-patterns, developers create a more maintainable, understandable, and performant codebase. This not only benefits the development team but also improves the overall quality of the software product, leading to higher customer satisfaction and long-term success.
+
+---
+
+### Data Structures & Algorithms
+ - Levenshtein distance algorithm 
+
+### Programming Models
+ - Object Oriented Programming (OOP)
+ - Functional Programming
+ 
+### Architectural Patterns
+ - Model-View-ViewModel (MVVM)
+ - Model-View-Controller (MVC)
+ - Model-View-Presenter (MVP)
+
+### API Architectural Patterns
+ - GraphQL
+ - Representational State Transfer (REST)
+ - Remote Procedure Call (gRPC)
+ - Simple Object Access Protocol (SOAP)
+
+### Development Process
+ - Test Driven Development (TDD)
+ - Behavior Driven Development (BDD)
+ - Domain Driven Development (DDD)
+ - [Responsibility Driven Design](https://www.wirfs-brock.com/PDFs/A_Brief-Tour-of-RDD.pdf) 
+ - Clean Architecture
 
 ---
 
