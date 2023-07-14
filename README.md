@@ -449,6 +449,7 @@ Consistent and meaningful naming conventions enhance code readability and mainta
 - **Boolean Prefixes**: *When naming boolean variables or properties, consider using prefixes like "is," "has," or "should" to indicate their boolean nature. Example: `isAvailable`, `shouldProcess`.*
 - **Constants**: *Use uppercase letters and underscores to represent constants. This convention helps distinguish them from regular variables. Example: `MAX_VALUE`, `DEFAULT_TIMEOUT`.*
 
+---
 
 #### Buzzwords
 Buzzwords are popular terms or phrases that often represent emerging technologies, trends, or concepts in the software industry.\
