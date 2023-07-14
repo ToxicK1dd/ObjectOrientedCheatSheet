@@ -315,9 +315,11 @@ Explore the table below to learn about different data structures and algorithms 
 - **GraphQL**: *A query language and runtime for APIs that provides a flexible and efficient approach to data fetching and manipulation.*
 - **Representational State Transfer (REST)**: *An architectural style that uses a set of constraints to design scalable and stateless web services.*
   - **OData (Open Data Protocol)**: *A protocol that builds on top of REST to enable querying and updating data using standard HTTP protocols.*
-- **Remote Procedure Call (gRPC)**: *A high-performance, language-agnostic remote procedure call framework.*
-- **JSON-RPC**: *A remote procedure call protocol encoded in JSON for communication between client and server.*
-- **Simple Object *Access Protocol (SOAP)**: A protocol for exchanging structured information in web services using XML.*
+- **Remote Procedure Call (RPC)**: *A general term for protocols that enable programs to communicate with each other across a network.*
+  - **JSON-RPC**: *A remote procedure call protocol encoded in JSON for communication between client and server.*
+  - **SOAP (Simple Object Access Protocol)**: *A protocol for exchanging structured information in web services using XML.*
+  - **XML-RPC**: *A remote procedure call protocol that uses XML for message encoding and transmission.*
+  - **gRPC**: *A high-performance, language-agnostic remote procedure call framework.*
 - **WebSockets**: *A communication protocol that provides full-duplex communication between a client and a server over a single, long-lived connection.*
 
 ### Development Process
