@@ -106,11 +106,11 @@ Each principle focuses on a specific aspect of software design and encourages go
 The CLEAN design principles emphasize writing code that is easy to understand, efficient, and free from redundancy.\
 By following these principles, you can enhance the readability, maintainability, and overall quality of your codebase.
 
-- [Clear](#)
-- [Logical](#)
-- [Effective](#)
-- [Accurate](#)
-- [Non-redundant](#)
+- Clear
+- Logical
+- Effective
+- Accurate
+- Non-redundant
 
 ### General Responsibility Assignment Software Patterns ([GRASP](http://www.kamilgrzybek.com/design/grasp-explained/))
 **GRASP** (General Responsibility Assignment Software Patterns) is a set of design principles that guide software developers in assigning responsibilities to classes and objects.
