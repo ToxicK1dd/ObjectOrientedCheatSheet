@@ -30,26 +30,30 @@ Quick links to different sections of the guide:
 
 | Category | Description |
 |----------|-------------|
+| Section 1 | Things you definitely should know about. |
 | [Basic Elements](#basic-elements) | The most basic elements of OOP and C# programming. |
 | [General Elements](#general-elements) | General elements of OOP in C# programming. |
 | [Fundamentals](#fundamentals) | Fundamental concepts of programming. |
 | [Declarations](#declarations) | Declarations in C# programming. |
 | [Relationships](#relationships) | Relationships between classes and objects. |
+| [Best Practices](#best-practices) | Best practices in software development. |
+| [Naming Conventions](#naming-conventions) | Different naming conventions. |
 | [Concepts](#concepts) | Concepts in software development. |
+| Section 2 | More advanced concepts and techniques. |
 | [SOLID](#solid-design-principles) | SOLID design principles. |
 | [CLEAN](#clean-design-principles) | CLEAN design principles. |
 | [GRASP](#general-responsibility-assignment-software-patterns) | GRASP design principles. |
-| [GoF](#gang-of-four) | Gang of Four (GoF) design patterns. |
-| [Anti-Patterns](#common-anti-patterns-and-code-smells) | Common anti-patterns and code smells. |
+| [GoF](#gang-of-four) | Gang of four design principles |
 | [Principles and Guidelines](#software-development-principles-and-guidelines) | Software development principles and guidelines. |
+| [Anti-Patterns](#common-anti-patterns-and-code-smells) | Common anti-patterns and code smells. |
 | [Data Structures & Algorithms](#data-structures--algorithms) | Data structures and algorithms. |
+| Section 3 | Architectures, paradigms, and project management. |
 | [Architectures & Paradigms](#programming-models) | Different programming models and architectures. |
 | [Development Approaches](#development-approaches-in-software-development) | Different approaches to software development. |
 | [Project Management](#project-management) | Project management methodologies. |
 | [User Stories](#user-stories) | Used in agile software development to describe a software feature from an end-user perspective. |
 | [Software Development Concepts](#software-development-concepts) | Concepts related to software development. |
-| [Best Practices](#best-practices) | Best practices in software development. |
-| [Naming Conventions](#naming-conventions) | Naming conventions for different elements in software development. |
+| Section 4 | Other useful information. |
 | [Buzz Words](#buzzwords) | Buzz words in software development. |
 | [Advice](#advice) | Advice for software developers. |
 | [Business Concepts](#business-and-domain-concepts) | Concepts related to business areas and domains. |
@@ -114,6 +118,38 @@ Quick links to different sections of the guide:
 - [Specialization](https://www.indeed.com/career-advice/career-development/generalization-vs-specialization) (*Modeling a relationship where one class represents a specialized version of a more general class.*)
 - [Dependency](https://www.uml-diagrams.org/dependency.html) (*Indicating that one class depends on another class, typically through method parameters or variable types.*)
 - [Realization](https://www.uml-diagrams.org/realization.html) (*Representing the implementation of an interface or the fulfillment of a contract by a class.*)
+
+### Best Practices
+Best practices are guidelines and techniques that have been recognized as effective for software development.\
+They help improve code quality, maintainability, and collaboration among developers.
+
+- **Abbreviations**: *Use commonly accepted abbreviations to keep names concise, but avoid excessive abbreviations that may reduce clarity. Example: `maxValue`, `btnSubmit`, `isValid`.*
+- **Meaningful Names**: *Choose descriptive names that accurately reflect the purpose or functionality of the element. Use self-explanatory names that make the code easier to understand. Example: `customerName`, `calculateTotalPrice`.*
+- **Consistency**: *Follow consistent naming conventions throughout your codebase to maintain readability and reduce confusion. Consistency within a project or team is crucial for collaboration.*
+- **Folder/Project Structure**: *Organize code files and resources in a logical and consistent manner to enhance readability and maintainability.*
+- **Triple A (Unit Testing)**: *Arrange, Act, Assert (AAA) is a pattern for organizing unit tests into three sections: setup, execution, and verification.*
+- **Avoid Premature Optimization**: *Focus on writing clean and functional code first before optimizing for performance. Premature optimization can lead to complex and harder-to-maintain code.*
+- **Version Control**: *Utilize a version control system (e.g., Git) to track and manage code changes, collaborate with other developers, and maintain a history of project revisions.*
+- **Code Review**: *Conduct code reviews to ensure code quality, catch bugs, and share knowledge among team members. Reviewing code can lead to better code consistency and improved overall quality.*
+- **Documentation**: *Write clear and concise documentation to explain the purpose, behavior, and usage of your code. Good documentation helps other developers understand and work with your code more effectively.*
+- **Error Handling**: *Implement proper error handling and exception management to gracefully handle errors and prevent crashes or unexpected behavior in your application.*
+- **Performance Optimization**: *Identify and optimize performance bottlenecks in your code to improve the overall performance and responsiveness of your application.*
+
+
+#### Naming Conventions
+Naming conventions provide guidelines for naming variables, functions, classes, and other elements in your codebase.\
+Consistent and meaningful naming conventions enhance code readability and maintainability.
+
+- **Pascal Casing**: *Capitalizes the first letter of each word in a compound word or phrase, without using underscores or spaces. Example: `MyVariableName`, `CalculateTotalAmount`.*
+- **Camel Casing**: *Capitalizes the first letter of each word except the first one, with no spaces or underscores. Example: `myVariableName`, `calculateTotalAmount`.*
+- **Snake Case**: *Uses lowercase letters and underscores between words. Example: `my_variable_name`, `calculate_total_amount`.*
+- **Hungarian Notation**: *Prefixes variable names with a type indicator to denote the variable's data type. Example: `strFirstName` for a string variable or `bIsEnabled` for a boolean variable.*
+- **Verb-Noun Naming**: *Use verbs to represent actions and nouns to represent entities or objects. This convention helps clarify the purpose and behavior of the elements. Example: `getUserInfo`, `calculateTotalPrice`.*
+- **Domain-Specific Naming**: *Use names specific to the problem domain you are working in. This makes the code more expressive and understandable within the context of the application. Example: `orderTotal`, `customerAddress`.*
+- **Singular vs. Plural**: *Choose between singular and plural forms based on the nature of the entity being represented. Use singular form for individual instances and plural form for collections. Example: `car`, `cars`.*
+- **Boolean Prefixes**: *When naming boolean variables or properties, consider using prefixes like "is," "has," or "should" to indicate their boolean nature. Example: `isAvailable`, `shouldProcess`, `hasPermission`.*
+- **Constants**: *Use uppercase letters and underscores to represent constants. This convention helps distinguish them from regular variables. Example: `MAX_VALUE`, `DEFAULT_TIMEOUT`.*
+
 
 ### Concepts
 - [Encapsulation](https://www.tutorialspoint.com/csharp/csharp_encapsulation.htm) (*Bundling data and methods together into a single unit, known as a class, to hide the internal details and provide controlled access.*)
@@ -198,7 +234,7 @@ The GoF design patterns are divided into three categories:
    - Strategy. Allows one of a family of algorithms to be selected on-the-fly at run-time.
    - Template Method. Defines the skeleton of an algorithm as an abstract class, allowing its sub-classes to provide concrete behavior.
    - Visitor. Separates an algorithm from an object structure by moving the hierarchy of methods into one object.
-     
+
 ---
 
 ### Software Development Principles and Guidelines
@@ -715,38 +751,6 @@ They offer reusable approaches to solving common challenges and help improve the
   - **Facade**: *Provides a simplified interface to a complex subsystem, making it easier to use and understand.*
   - **Proxy**: *Provides a surrogate or placeholder for another object to control access to it.*
  
-    
-### Best Practices
-Best practices are guidelines and techniques that have been recognized as effective for software development.\
-They help improve code quality, maintainability, and collaboration among developers.
-
-- **Abbreviations**: *Use commonly accepted abbreviations to keep names concise, but avoid excessive abbreviations that may reduce clarity. Example: `maxValue`, `btnSubmit`, `isValid`.*
-- **Meaningful Names**: *Choose descriptive names that accurately reflect the purpose or functionality of the element. Use self-explanatory names that make the code easier to understand. Example: `customerName`, `calculateTotalPrice`.*
-- **Consistency**: *Follow consistent naming conventions throughout your codebase to maintain readability and reduce confusion. Consistency within a project or team is crucial for collaboration.*
-- **Folder/Project Structure**: *Organize code files and resources in a logical and consistent manner to enhance readability and maintainability.*
-- **Triple A (Unit Testing)**: *Arrange, Act, Assert (AAA) is a pattern for organizing unit tests into three sections: setup, execution, and verification.*
-- **Avoid Premature Optimization**: *Focus on writing clean and functional code first before optimizing for performance. Premature optimization can lead to complex and harder-to-maintain code.*
-- **Version Control**: *Utilize a version control system (e.g., Git) to track and manage code changes, collaborate with other developers, and maintain a history of project revisions.*
-- **Code Review**: *Conduct code reviews to ensure code quality, catch bugs, and share knowledge among team members. Reviewing code can lead to better code consistency and improved overall quality.*
-- **Documentation**: *Write clear and concise documentation to explain the purpose, behavior, and usage of your code. Good documentation helps other developers understand and work with your code more effectively.*
-- **Error Handling**: *Implement proper error handling and exception management to gracefully handle errors and prevent crashes or unexpected behavior in your application.*
-- **Performance Optimization**: *Identify and optimize performance bottlenecks in your code to improve the overall performance and responsiveness of your application.*
-
-
-#### Naming Conventions
-Naming conventions provide guidelines for naming variables, functions, classes, and other elements in your codebase.\
-Consistent and meaningful naming conventions enhance code readability and maintainability.
-
-- **Pascal Casing**: *Capitalizes the first letter of each word in a compound word or phrase, without using underscores or spaces. Example: `MyVariableName`, `CalculateTotalAmount`.*
-- **Camel Casing**: *Capitalizes the first letter of each word except the first one, with no spaces or underscores. Example: `myVariableName`, `calculateTotalAmount`.*
-- **Snake Case**: *Uses lowercase letters and underscores between words. Example: `my_variable_name`, `calculate_total_amount`.*
-- **Hungarian Notation**: *Prefixes variable names with a type indicator to denote the variable's data type. Example: `strFirstName` for a string variable or `bIsEnabled` for a boolean variable.*
-- **Verb-Noun Naming**: *Use verbs to represent actions and nouns to represent entities or objects. This convention helps clarify the purpose and behavior of the elements. Example: `getUserInfo`, `calculateTotalPrice`.*
-- **Domain-Specific Naming**: *Use names specific to the problem domain you are working in. This makes the code more expressive and understandable within the context of the application. Example: `orderTotal`, `customerAddress`.*
-- **Singular vs. Plural**: *Choose between singular and plural forms based on the nature of the entity being represented. Use singular form for individual instances and plural form for collections. Example: `car`, `cars`.*
-- **Boolean Prefixes**: *When naming boolean variables or properties, consider using prefixes like "is," "has," or "should" to indicate their boolean nature. Example: `isAvailable`, `shouldProcess`, `hasPermission`.*
-- **Constants**: *Use uppercase letters and underscores to represent constants. This convention helps distinguish them from regular variables. Example: `MAX_VALUE`, `DEFAULT_TIMEOUT`.*
-
 ---
 
 #### Buzzwords
