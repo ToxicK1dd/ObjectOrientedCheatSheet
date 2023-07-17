@@ -282,9 +282,9 @@ Explore these principles to enhance your understanding of software development a
 - [KISS](https://www.freecodecamp.org/news/keep-it-simple-stupid-how-to-use-the-kiss-principle-in-design/) (Keep It Simple, Stupid)
 - [YAGNI](https://martinfowler.com/bliki/Yagni.html) (You Aren't Gonna Need It)
 - [RTFM](https://www.computerhope.com/jargon/r/rtfm.htm) (Read The Fucking Manual)
-- [JFGI](https://www.urbandictionary.com/define.php?term=jfgi) (Just Fucking Google It) *// not really a principle*
+- [JFGI](https://www.urbandictionary.com/define.php?term=jfgi) (Just Fucking Google It)
 - [ACID](https://www.ibm.com/docs/en/cics-ts/5.4?topic=processing-acid-properties-transactions) (Atomicity, Consistency, Isolation, Durability)
-- [PLOD](https://stackify.com/premature-optimization-evil/) (Premature Lateral Optimization Disorder) *// not really a principle*
+- [PLOD](https://stackify.com/premature-optimization-evil/) (Premature Lateral Optimization Disorder)
 - [FIFO](https://www.geeksforgeeks.org/fifo-first-in-first-out-approach-in-programming/) (First In, First Out)
 - [LIFO](https://www.geeksforgeeks.org/fifo-vs-lifo-approach-in-programming/) (Last In, First Out)
   
