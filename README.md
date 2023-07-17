@@ -159,7 +159,7 @@ Consistent and meaningful naming conventions enhance code readability and mainta
 - Polymorphism (*The ability of an object to take on different forms or have multiple behaviors.*)
   - [Overloading](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/member-overloading) (*Defining multiple methods with the same name but different parameters in a class.*)
   - [Overriding](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/knowing-when-to-use-override-and-new-keywords) (*Providing a new implementation for a method in a subclass that is already defined in its parent class.*)
-  -[Generics](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/types/generics) (*Allowing the creation of classes, methods, and structures that can work with different data types.*)
+  - [Generics](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/types/generics) (*Allowing the creation of classes, methods, and structures that can work with different data types.*)
 - [Persistence](https://en.m.wikipedia.org/wiki/Persistence_(computer_science)) (*The ability to save and retrieve data from a storage medium, such as a database or file system.*)
 - [Modularity](https://codewithmukesh.com/blog/modular-architecture-in-aspnet-core/) (*Breaking down a system into smaller, self-contained modules that can be developed and maintained independently.*)
 - [Decoupling](https://intellitect.com/blog/decoupling-csharp-testable/) (*Reducing dependencies between components or modules to improve flexibility, reusability, and testability.*)
