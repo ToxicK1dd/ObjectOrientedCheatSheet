@@ -23,6 +23,45 @@ Even I, won't claim to be an expert on all the subjects covered in this guide. H
  
 > **Note:** This guide is a **work in progress**. I am continuously expanding and updating the content to provide even more comprehensive coverage of software development principles, patterns, and best practices. The content is continually expanding and evolving as I discover new principles, patterns, and best practices. Feel free to explore the existing content and check back regularly for new additions and updates.
 
+
+## Table of Contents
+
+Quick links to different sections of the guide:
+
+| Category | Description |
+|----------|-------------|
+| [Basic Elements](#basic-elements) | The most basic elements of OOP and C# programming. |
+| [General Elements](#general-elements) | General elements of OOP in C# programming. |
+| [Fundamentals](#fundamentals) | Fundamental concepts of programming. |
+| [Declarations](#declarations) | Declarations in C# programming. |
+| [Relationships](#relationships) | Relationships between classes and objects. |
+| [Concepts](#concepts) | Concepts in software development. |
+| [SOLID](#solid-design-principles) | SOLID design principles. |
+| [CLEAN](#clean-design-principles) | CLEAN design principles. |
+| [GRASP](#general-responsibility-assignment-software-patterns) | GRASP design principles. |
+| [GoF](#gang-of-four) | Gang of Four (GoF) design patterns. |
+| [Anti-Patterns](#common-anti-patterns-and-code-smells) | Common anti-patterns and code smells. |
+| [Principles and Guidelines](#software-development-principles-and-guidelines) | Software development principles and guidelines. |
+| [Data Structures & Algorithms](#data-structures--algorithms) | Data structures and algorithms. |
+| [Architectures & Paradigms](#programming-models) | Different programming models and architectures. |
+| [Development Approaches](#development-approaches-in-software-development) | Different approaches to software development. |
+| [Project Management](#project-management) | Project management methodologies. |
+| [User Stories](#user-stories) | Used in agile software development to describe a software feature from an end-user perspective. |
+| [Software Development Concepts](#software-development-concepts) | Concepts related to software development. |
+| [Best Practices](#best-practices) | Best practices in software development. |
+| [Naming Conventions](#naming-conventions) | Naming conventions for different elements in software development. |
+| [Buzz Words](#buzzwords) | Buzz words in software development. |
+| [Advice](#advice) | Advice for software developers. |
+| [Business Concepts](#business-and-domain-concepts) | Concepts related to business areas and domains. |
+
+
+<!-- 
+| [Coding Standards](#coding-standards) | Coding standards for different programming languages. |
+| [Software Development Life Cycle](#software-development-life-cycle) | The process of developing software. |
+| [Software Testing](#software-testing) | Software testing concepts and techniques. |
+| [Software Quality](#software-quality) | Software quality concepts and techniques. | -->
+
+
 ---
 
 ### Basic Elements
@@ -92,7 +131,7 @@ Even I, won't claim to be an expert on all the subjects covered in this guide. H
 
 ---
 
-### S.O.L.I.D Design Principles
+### SOLID Design Principles
 **SOLID** represents a set of design principles aimed at creating software that is easy to maintain, understand, and extend.\
 Each principle focuses on a specific aspect of software design and encourages good coding practices.
 
@@ -112,8 +151,8 @@ By following these principles, you can enhance the readability, maintainability,
 - Accurate
 - Non-redundant
 
-### General Responsibility Assignment Software Patterns ([GRASP](http://www.kamilgrzybek.com/design/grasp-explained/))
-**GRASP** (General Responsibility Assignment Software Patterns) is a set of design principles that guide software developers in assigning responsibilities to classes and objects.
+### General Responsibility Assignment Software Patterns
+**[GRASP](http://www.kamilgrzybek.com/design/grasp-explained/)** (General Responsibility Assignment Software Patterns) is a set of design principles that guide software developers in assigning responsibilities to classes and objects.
 
 These principles help in creating software systems that are modular, maintainable, and adaptable. Each principle focuses on a specific aspect of object-oriented design and promotes good coding practices. The principles include:
 
@@ -127,8 +166,8 @@ These principles help in creating software systems that are modular, maintainabl
  - Pure Fabrication
  - Controller
 
-### Gang of Four ([GOF](https://springframework.guru/gang-of-four-design-patterns/))
-The Gang of Four (GoF) design patterns are a collection of 23 design patterns that provide solutions to common software design problems. 
+### Gang of Four 
+The [Gang of Four](https://springframework.guru/gang-of-four-design-patterns/) (GoF) design patterns are a collection of 23 design patterns that provide solutions to common software design problems. 
 
 These patterns were defined by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides in their book "Design Patterns: Elements of Reusable Object-Oriented Software". 
 The GoF design patterns are divided into three categories:
@@ -299,9 +338,9 @@ Explore the table below to learn about different data structures and algorithms 
 
 ### Programming Models
 - **Object Oriented Programming (OOP)**: *A programming paradigm that organizes code into objects with properties and behaviors.*
+- **Imperative Programming**: *A programming paradigm that specifies explicit instructions for the computer to follow.*
 - **Functional Programming**: *A programming paradigm that emphasizes the use of pure functions and immutable data.*
 - **Procedural Programming**: *A programming paradigm that focuses on procedures or routines to structure code.*
-- **Imperative Programming**: *A programming paradigm that specifies explicit instructions for the computer to follow.*
 - **Declarative Programming**: *A programming paradigm that focuses on *what* should be achieved rather than *how* to achieve it.*
 - **Aspect-Oriented Programming (AOP)**: *A programming paradigm that allows modularization of cross-cutting concerns.*
 - **Service-Oriented Architecture (SOA)**: *An architectural approach that organizes software components as services.*
@@ -705,13 +744,14 @@ Consistent and meaningful naming conventions enhance code readability and mainta
 - **Verb-Noun Naming**: *Use verbs to represent actions and nouns to represent entities or objects. This convention helps clarify the purpose and behavior of the elements. Example: `getUserInfo`, `calculateTotalPrice`.*
 - **Domain-Specific Naming**: *Use names specific to the problem domain you are working in. This makes the code more expressive and understandable within the context of the application. Example: `orderTotal`, `customerAddress`.*
 - **Singular vs. Plural**: *Choose between singular and plural forms based on the nature of the entity being represented. Use singular form for individual instances and plural form for collections. Example: `car`, `cars`.*
-- **Boolean Prefixes**: *When naming boolean variables or properties, consider using prefixes like "is," "has," or "should" to indicate their boolean nature. Example: `isAvailable`, `shouldProcess`.*
+- **Boolean Prefixes**: *When naming boolean variables or properties, consider using prefixes like "is," "has," or "should" to indicate their boolean nature. Example: `isAvailable`, `shouldProcess`, `hasPermission`.*
 - **Constants**: *Use uppercase letters and underscores to represent constants. This convention helps distinguish them from regular variables. Example: `MAX_VALUE`, `DEFAULT_TIMEOUT`.*
 
 ---
 
 #### Buzzwords
-Buzzwords are popular terms or phrases that often represent emerging technologies, trends, or concepts in the software industry.\
+Buzzwords are popular terms or phrases that often represent emerging technologies, trends, or concepts in the software industry.
+
 They are trendy or popular terms commonly used in the software development industry.\
 While some buzzwords may be overused, they still hold significance and represent important concepts and technologies.
 
@@ -724,6 +764,8 @@ While some buzzwords may be overused, they still hold significance and represent
 - **Metaverse**: *Virtual reality space where users can interact with a computer-generated environment and other users in real-time.*
 - **Microservices**: *Architectural style that structures an application as a collection of small, loosely coupled services that can be developed and deployed independently.*
 - **Deep Learning**: *A subfield of machine learning that involves training neural networks with multiple layers to learn hierarchical representations of data.*
+- **Large Language Models (LLM)**: *A type of deep learning model that uses large amounts of data to generate text, images, and other content.*
+- **Internet of Things (IoT)**: *The network of physical devices, vehicles, appliances, and other objects embedded with sensors, software, and connectivity to exchange data and interact with each other.*
 - **Natural Language Processing (NLP)**: *The ability of computers to understand and process human language, enabling tasks such as language translation, sentiment analysis, and chatbots.*
 - **Computer Vision**: *The field of computer science that deals with enabling computers to gain high-level understanding from digital images or videos, enabling applications like image recognition and object detection.*
 - **Internet of Things (IoT)**: *The network of physical devices, vehicles, appliances, and other objects embedded with sensors, software, and connectivity to exchange data and interact with each other.*
