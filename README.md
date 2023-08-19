@@ -8,7 +8,8 @@ Whether you are a *beginner* or an *experienced developer*, this resource offers
 From *fundamental elements* to *advanced concepts*, *architecture patterns* to *project management methodologies*,\
 this guide aims to equip you with a broad knowledge base and practical guidance for developing high-quality software.
 
-It's important to note that software development is a vast and ever-evolving field, and no one can know everything there is to know.\
+It's important to note that software development is a vast and ever-evolving field, and no one can know everything there is to know.
+
 However, this guide strives to present a wide range of principles, patterns, and best practices to give you a comprehensive understanding of the subject.
 
 Please note that this guide is not organized based on difficulty levels. Instead, it follows a structured approach to cover various topics related to software development.
