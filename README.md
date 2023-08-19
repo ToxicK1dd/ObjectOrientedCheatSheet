@@ -31,37 +31,37 @@ Quick links to different sections of the guide:
 
 | Category | Description |
 |----------|-------------|
-| Section 1 | Things you definitely should know about. |
-| [Basic Elements](#basic-elements) | The most basic elements of OOP and C# programming. |
-| [Fundamental Elements](#fundamental-elements) | Fundamental concepts of programming. |
-| [Important Elements](#important-elements) | Important elements of programming. |
-| [Control Structures](#control-structures) | Different control structures in programming. |
-| [Relationships](#relationships) | Relationships between classes and objects. |
-| [Best Practices](#best-practices) | Best practices in software development. |
-| [Naming Conventions](#naming-conventions) | Different naming conventions. |
-| [Concepts](#concepts) | Concepts in software development. |
-| Section 2 | More advanced concepts and techniques. |
-| [SOLID](#solid-design-principles) | SOLID design principles. |
-| [CLEAN](#clean-design-principles) | CLEAN design principles. |
-| [GRASP](#general-responsibility-assignment-software-patterns) | GRASP design principles. |
-| [GoF](#gang-of-four) | Gang of four design principles |
-| [Principles and Guidelines](#software-development-principles-and-guidelines) | Software development principles and guidelines. |
-| [Anti-Patterns](#common-anti-patterns-and-code-smells) | Common anti-patterns and code smells. |
-| [Data Structures & Algorithms](#data-structures--algorithms) | Data structures and algorithms. |
-| Section 3 | Architectures, paradigms, and project management. |
-| [Architectures & Paradigms](#programming-models) | Different programming models and architectures. |
-| [Development Approaches](#development-approaches-in-software-development) | Different approaches to software development. |
-| [Refactoring](#refactoring) | Enhancing code quality through systematic improvements. |
-| [Guard Clauses and Defensive Programming](#guard-clauses-and-defensive-programming) | Handling errors and exceptional cases in your code using guard clauses and defensive programming. |
-| [Scope Creep and Effective Time Estimation](#scope-creep-and-effective-time-estimation) | Managing scope changes and accurate time estimation in software development projects. |
-| [Project Management](#project-management) | Project management methodologies. |
-| [User Stories](#user-stories) | Used in agile software development to describe a software feature from an end-user perspective. |
-| Section 4 | Other useful information. |
-| [Buzz Words](#buzzwords) | Buzz words in software development. |
-| [Advice](#advice) | Advice for software developers. |
-| [Business Concepts](#business-and-domain-concepts) | Concepts related to business areas and domains. |
-| [Additional Concepts](#additional-concepts) | Additional concepts related to software development. |
-| [Useful Resources](#useful-resources) | Useful resources for software developers. |
+| **Section 1** | ***Things you definitely should know about.*** |
+| [Basic Elements](#basic-elements) | *The most basic elements of OOP and C# programming.* |
+| [Fundamental Elements](#fundamental-elements) | *Fundamental concepts of programming.* |
+| [Important Elements](#important-elements) | *Important elements of programming.* |
+| [Control Structures](#control-structures) | *Different control structures in programming.* |
+| [Relationships](#relationships) | *Relationships between classes and objects.* |
+| [Best Practices](#best-practices) | *Best practices in software development.* |
+| [Naming Conventions](#naming-conventions) | *Different naming conventions.* |
+| [Concepts](#concepts) | *Concepts in software development.* |
+| **Section 2** | ***More advanced concepts and techniques.*** |
+| [SOLID](#solid-design-principles) | *SOLID design principles.* |
+| [CLEAN](#clean-design-principles) | *CLEAN design principles.* |
+| [GRASP](#general-responsibility-assignment-software-patterns) | *GRASP design principles.* |
+| [GoF](#gang-of-four) | *Gang of four design principles* |
+| [Principles and Guidelines](#software-development-principles-and-guidelines) | *Software development principles and guidelines.* |
+| [Anti-Patterns](#common-anti-patterns-and-code-smells) | *Common anti-patterns and code smells.* |
+| [Data Structures & Algorithms](#data-structures--algorithms) | *Data structures and algorithms.* |
+| **Section 3** | ***Architectures, paradigms, and project management.*** |
+| [Architectures & Paradigms](#programming-models) | *Different programming models and architectures.* |
+| [Development Approaches](#development-approaches-in-software-development) | *Different approaches to software development.* |
+| [Refactoring](#refactoring) | *Enhancing code quality through systematic improvements.* |
+| [Guard Clauses and Defensive Programming](#guard-clauses-and-defensive-programming) | *Handling errors and exceptional cases in your code using guard clauses and defensive programming.* |
+| [Scope Creep and Effective Time Estimation](#scope-creep-and-effective-time-estimation) | *Managing scope changes and accurate time estimation in software development projects.* |
+| [Project Management](#project-management) | *Project management methodologies.* |
+| [User Stories](#user-stories) | *Used in agile software development to describe a software feature from an end-user perspective.* |
+| **Section 4** | ***Other useful information.*** |
+| [Buzz Words](#buzzwords) | *Buzz words in software development.* |
+| [Advice](#advice) | *Advice for software developers.* |
+| [Business Concepts](#business-and-domain-concepts) | *Concepts related to business areas and domains.* |
+| [Additional Concepts](#additional-concepts) | *Additional concepts related to software development.* |
+| [Useful Resources](#useful-resources) | *Useful resources for software developers.* |
 
 
 <!-- 
